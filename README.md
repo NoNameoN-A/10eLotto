@@ -1,4 +1,7 @@
 # Eng
+
+<a href="https://www.buymeacoffee.com/NoNameoNA" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 150px !important;" ></a>
+
 # NoNameoN
 Computer Science at the Department of Computer Science and Mathematics, Unical university.
 This sw is entirely open source, you can download and edit it as you wish without necessarily including the source.
